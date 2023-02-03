@@ -1,4 +1,7 @@
 /**
+ * Runtime: beats 77.85%
+ * Memory: beats 96.29%
+ * 
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
