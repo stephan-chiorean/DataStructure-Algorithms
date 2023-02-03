@@ -1,4 +1,7 @@
 /**
+ * Runtime: beats 93.35%
+ * Memory: beats 63.9%
+ * 
  * @param {number[]} nums
  * @param {number} target
  * @return {number[][]}
